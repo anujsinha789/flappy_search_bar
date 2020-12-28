@@ -427,7 +427,7 @@ class _SearchBarState<T> extends State<SearchBar<T>>
                         color: Colors.transparent,
                         child: Center(
                           child: IconButton(
-                            icon: Icon(Icons.cancel, color: Colors.white)
+                            icon: Icon(Icons.cancel, color: Colors.grey[200])
                           ),
                         ),
                       ),
